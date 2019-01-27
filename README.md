@@ -10,7 +10,7 @@ _This is a HTML page featuring an "about me" on my pet, Stella. In this project,
 
 ## Setup/Installation Requirements
 
-* _Download from GitHub to your computer_
+* _Download from GitHub to your computer. Link:https://github.com/emilybobbe/Stella-Page.git_
 * _Use Terminal to open files in Atom_
 * _Open Stella-page.html in your browser of choice_
 * _Examine code and page format_
