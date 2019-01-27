@@ -4,6 +4,10 @@
 
 .unimportant {
   color: purple;
+  border: 2px solid yellow;
+  padding: 5px;
+  margin: 12px;
+  background-color: #cee5d6;
 }
 
 
@@ -18,5 +22,11 @@
 .sidebar {
   width: 35%;
   float:right;
-  background-color: #e0c9db;
+    background-color: #e0c9db;
+}
+
+.favorite-things {
+  border:3px;
+  padding: 5px;
+  margin:12px;
 }
