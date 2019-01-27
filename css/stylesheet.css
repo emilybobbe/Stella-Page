@@ -3,7 +3,11 @@
 }
 
 .unimportant {
-  color: blue;
+  color: purple;
+}
+
+.special {
+  color: red;
 }
 
 #line1 {
