@@ -6,10 +6,17 @@
   color: purple;
 }
 
+
+#line1 {
+  font-style: italic;
+}
+
 .special {
   color: red;
 }
 
-#line1 {
-  font-style: italic;
+.sidebar {
+  width: 35%;
+  float:right;
+  background-color: #e0c9db;
 }
