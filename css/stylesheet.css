@@ -1,7 +1,11 @@
 .important {
+  color: green;
+}
+
+.unimportant {
   color: blue;
 }
 
-div.a {
-  text-align: center;
+#line1 {
+  font-style: italic;
 }
